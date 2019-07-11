@@ -116,5 +116,3 @@ CREATE UNIQUE INDEX "RoleNameIndex" ON "AspNetRoles" ("NormalizedName");
 
 INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
 VALUES ('20190420023122_InitialCreate', '2.2.3-servicing-35854');
-
-
